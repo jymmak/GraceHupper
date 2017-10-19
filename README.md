@@ -1,1 +1,1 @@
-![](asset/images/grace-hopper.png)
+![](asset/images/gh.png)
