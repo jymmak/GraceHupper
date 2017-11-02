@@ -1,2 +1,2 @@
-![](asset/images/gh.png)# graceh
-# GraceHupper
+![](assets/images/gh.png)
+

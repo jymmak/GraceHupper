@@ -1,0 +1,16 @@
+body{
+    font-family:sans-serif;
+    background-color: #FF64FD;
+    text-align: justify;
+    padding: 40px;
+}
+
+h1{
+    margin-bottom:3px;
+}
+
+
+hr{
+    margin-top:0px;
+    margin-bottom:0px;  
+}
